@@ -15,7 +15,7 @@ Present your analysis in a report. You can use charts, tables, and graphs to ela
 
 Dataset Link:
 
-Placement Data *
+Placement Data: https://www.kaggle.com/datasets/revelation2k23/brain-dead-placement-data?select=Placement_Data_Full_Class.csv
 
 Dataset Description:
 
