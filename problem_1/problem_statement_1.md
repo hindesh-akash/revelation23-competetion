@@ -22,18 +22,33 @@ Dataset Description:
 The dataset has 215 rows and 15 columns. Each row represents a student and his/her/their corresponding data.
 
 The columns and their description:
+
 👉 sl_no: Serial Number
+
 👉 gender: Gender- Male='M',Female='F'
+
 👉 ssc_p: Secondary Education percentage- 10th Grade
+
 👉 ssc_b: Board of Education- Central/ Others
+
 👉 hsc_p: Higher Secondary Education percentage- 12th Grade
+
 👉 hsc_b: Board of Education- Central/ Others
+
 👉 hsc_s: Specialization in Higher Secondary Education
+
 👉 degree_p: Degree Percentage
+
 👉 degree_t: Under-Graduation(Degree type)- Field of degree education
+
 👉 workex: Work Experience
+
 👉 etest_p: Employability test percentage ( conducted by the college)
+
 👉 specialisation: Post Graduation(MBA)- Specialization
+
 👉 mba_p: MBA percentage
+
 👉 status: Status of placement- Placed/Not placed
+
 👉 salary: Salary offered by corporate to candidates
